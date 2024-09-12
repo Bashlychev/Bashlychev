@@ -1,7 +1,3 @@
-<h2 align="center">Hi 👋, I'm Gleb Bashlychev</h2>
-<h2 align="center">Perfomance QA Engineer</h2>
-
-- I'm working as QA Engineer on: [Sales Doctor Solutions](https://salesdoc.io/)
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
